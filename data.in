@@ -1,0 +1,6 @@
+a = 13 + 4;
+print a;
+b = a + 1;
+print b;
+print a +b;
+exit;
